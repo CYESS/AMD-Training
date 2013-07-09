@@ -8,7 +8,9 @@ Training resources for TQ210 development board. TQ210 is an Android development 
 
 1. Clone it:
 
+  ```bash
   git clone git@github.com:CYESS/AMD-Training.git
+  ```
 
 2. Download:
 
@@ -16,7 +18,9 @@ Training resources for TQ210 development board. TQ210 is an Android development 
 
 ### Update your local repository
 
+  ```bash
   git pull
+  ```
 
 ## Documentation
 
